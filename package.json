@@ -1,0 +1,18 @@
+{
+    "name": "learn-gutenberg-blocks",
+    "version": "1.0.0",
+    "description": "A learning plugin for gutenberg",
+    "main": "index.js",
+    "scripts": {
+        "start": "wp-scripts start",
+        "build": "wp-scripts build"
+    },
+    "author": "Md Rabiul Islam",
+    "license": "MIT",
+    "devDependencies": {
+        "@wordpress/scripts": "^10.0.0"
+    },
+    "dependencies": {
+        "@wordpress/blocks": "^6.20.2"
+    }
+}
