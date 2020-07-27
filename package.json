@@ -13,6 +13,7 @@
         "@wordpress/scripts": "^10.0.0"
     },
     "dependencies": {
+        "@wordpress/block-editor": "^4.3.2",
         "@wordpress/blocks": "^6.20.2"
     }
 }
